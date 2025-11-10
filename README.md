@@ -19,13 +19,9 @@ Which countries contribute the most to Netflix’s catalog?
 🧰 Technologies Used
 
 Python 3
-
 Jupyter Notebook
-
 Pandas – Data cleaning and manipulation
-
 NumPy – Numerical operations
-
 Matplotlib & Seaborn – Data visualization
 
 
